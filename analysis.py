@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 
-conn = sqlite3.connect("sales.db")
+conn = sqlite3.connect("students.db")
 
 query = """
 -- 1. Explore the table 
