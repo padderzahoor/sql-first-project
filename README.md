@@ -23,7 +23,6 @@ I worked with a real-world survey dataset from a Japanese international universi
 
 - `queries.sql` → Standalone SQL queries used to aggregate and analyze student mental health data.
 - `analysis.py` → Python script that executes SQL queries and processes results.
-- `notebook.ipynb` → Exploratory notebook used for initial data inspection and experimentation.
 
 ## Dataset
 
